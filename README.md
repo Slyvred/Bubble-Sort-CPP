@@ -1,6 +1,5 @@
 # Bubble Sort CPP
-This is a header-only library applying the bubble sort algorithm.
-# PS: This code might be garbage because i'm retarded
+This is a header-only library applying the bubble sort algorithm. PS: This code might be garbage because i'm retarded.
 
 ## Simple example in C++ ##
 ```cpp
