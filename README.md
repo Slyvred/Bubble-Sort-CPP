@@ -1,9 +1,9 @@
-# Bubble Sort CPP
+# Sort CPP
 This is a header-only library applying the bubble sort algorithm. PS: This code might be garbage because i'm retarded.
 
 ## Simple example in C++ ##
 ```cpp
-#include "bubble_sort.h"
+#include "sort.h"
 #include <vector>
 
 void main()
@@ -11,6 +11,10 @@ void main()
   sorting sort;
   std::vector<int> sequence = {5, 11, 22, 9, 21};
   
+  // Bubble sort
   bool isSorted = sort.bubble(sequence);
+  
+  // Insertion sort
+  bool isSorted = sort.insertion(sequence);
 }
 ```
