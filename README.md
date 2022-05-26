@@ -1,6 +1,6 @@
 # Sort CPP
 This is a header-only library applying the bubble-sort and insertion-sort algorithms.
-It's compatible with Windows and Linux (untested on MacOs).
+It's compatible with Windows and Linux (untested on MacOS).
 PS: This code might be garbage because i'm retarded.
 
 ## Simple example in C++ ##
